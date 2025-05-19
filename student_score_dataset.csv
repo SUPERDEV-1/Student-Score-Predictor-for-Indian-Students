@@ -1,0 +1,501 @@
+gender,ethnicity,parental_education,reading_time,module_1,module_2,module_3,module_4,module_5,score
+Male,Other,Associate's Degree,48,36,14,69,19,64,47
+Female,Other,Some College,63,3,85,89,96,18,88
+Male,General,Master's Degree,107,91,59,3,89,8,55
+Male,SC,Bachelor's Degree,64,19,100,38,38,26,98
+Male,OBC,Associate's Degree,120,59,11,34,84,33,94
+Female,General,Associate's Degree,161,23,48,0,48,43,70
+Male,OBC,Some High School,159,49,41,23,63,67,81
+Male,OBC,Bachelor's Degree,78,48,37,56,61,99,49
+Male,SC,Some High School,65,50,81,99,53,81,71
+Female,OBC,Master's Degree,42,95,44,69,8,14,98
+Male,OBC,Associate's Degree,45,35,34,40,87,50,73
+Male,SC,Associate's Degree,157,97,29,53,36,12,48
+Male,OBC,Some College,90,99,87,45,48,82,56
+Male,OBC,Master's Degree,118,65,29,59,40,48,50
+Female,OBC,Associate's Degree,163,78,77,59,16,69,71
+Male,General,Master's Degree,82,33,5,56,87,55,49
+Female,General,Bachelor's Degree,49,35,66,30,20,75,61
+Female,General,High School,26,5,79,83,50,50,96
+Female,SC,Associate's Degree,138,38,6,23,58,36,56
+Male,Other,Some College,70,41,51,88,38,16,43
+Female,OBC,Bachelor's Degree,180,57,13,35,54,57,87
+Male,OBC,Master's Degree,113,11,72,84,40,86,91
+Female,SC,Some High School,51,2,14,29,38,89,86
+Female,OBC,Bachelor's Degree,34,17,20,23,12,28,64
+Female,General,Associate's Degree,48,39,34,29,63,32,98
+Female,Other,Master's Degree,44,20,65,85,10,59,60
+Female,ST,High School,140,14,90,91,18,90,76
+Female,OBC,Bachelor's Degree,117,96,1,6,10,88,77
+Female,General,Associate's Degree,111,98,34,34,76,54,88
+Female,ST,Some College,107,25,81,54,45,9,40
+Male,Other,Some High School,21,7,77,91,44,46,64
+Male,ST,Master's Degree,28,99,19,13,0,22,90
+Female,General,Bachelor's Degree,110,93,81,9,39,84,75
+Female,ST,Bachelor's Degree,53,86,9,79,18,20,56
+Female,SC,High School,58,41,24,15,75,12,80
+Male,ST,High School,26,43,65,53,71,100,63
+Female,OBC,Some College,83,13,24,94,71,32,41
+Male,OBC,Some High School,66,77,53,88,60,23,79
+Male,SC,Some College,64,1,32,76,11,10,54
+Male,General,Associate's Degree,56,36,35,69,60,16,71
+Male,OBC,Associate's Degree,21,68,94,43,32,67,78
+Male,Other,Some College,71,37,13,72,44,46,98
+Female,OBC,Some High School,89,40,64,44,89,24,45
+Female,OBC,Some College,92,61,79,99,91,93,40
+Female,General,Some High School,17,59,53,55,68,72,86
+Female,ST,Some High School,158,13,51,83,7,20,62
+Female,OBC,Master's Degree,90,88,2,81,24,83,97
+Male,SC,Some High School,127,83,98,56,90,82,78
+Female,ST,High School,34,1,40,20,45,82,100
+Female,Other,Some High School,98,69,5,67,86,11,96
+Male,General,Some High School,21,16,24,49,29,36,56
+Female,Other,Some High School,152,88,12,32,46,41,73
+Male,ST,Associate's Degree,68,27,97,90,86,16,98
+Female,ST,High School,163,65,7,6,48,100,80
+Male,ST,High School,118,34,20,69,46,47,68
+Female,Other,Some College,35,100,97,14,83,27,48
+Female,ST,Master's Degree,56,4,67,81,81,40,52
+Male,Other,Some High School,41,64,24,31,17,98,45
+Male,ST,Bachelor's Degree,19,39,78,74,65,46,45
+Male,SC,Master's Degree,25,75,67,19,67,17,59
+Male,ST,Master's Degree,154,55,44,87,93,77,91
+Male,Other,High School,160,35,59,14,32,98,92
+Male,OBC,Master's Degree,35,44,11,47,35,70,42
+Male,ST,Some High School,95,22,31,70,81,12,56
+Male,OBC,Some High School,144,46,95,20,100,81,88
+Female,SC,Associate's Degree,23,30,91,41,18,100,51
+Female,General,Some High School,88,10,12,25,27,12,87
+Male,SC,Some High School,126,9,30,13,39,99,86
+Female,ST,High School,16,66,77,56,83,30,84
+Female,OBC,Some High School,146,13,19,36,96,1,94
+Female,OBC,Associate's Degree,124,79,17,57,75,15,40
+Female,Other,Bachelor's Degree,81,73,92,20,14,8,56
+Male,OBC,High School,68,92,59,81,40,72,42
+Female,Other,Bachelor's Degree,91,9,62,68,38,37,65
+Male,General,High School,125,75,5,2,1,74,54
+Female,ST,Some College,176,93,31,86,62,53,75
+Female,Other,Master's Degree,155,0,92,89,28,55,71
+Female,General,Some College,112,4,42,36,73,85,71
+Male,OBC,Some High School,26,19,1,87,65,96,43
+Female,OBC,Bachelor's Degree,23,7,59,48,50,99,57
+Male,General,Some High School,168,42,22,18,74,86,88
+Female,OBC,Master's Degree,161,75,82,88,76,44,58
+Male,General,High School,117,0,30,84,9,33,82
+Female,Other,Master's Degree,54,56,4,11,13,8,91
+Male,Other,Associate's Degree,107,63,82,60,81,87,74
+Male,General,Master's Degree,140,83,33,40,50,7,79
+Female,Other,Associate's Degree,46,27,9,32,72,6,53
+Male,Other,Master's Degree,180,36,88,49,38,35,97
+Female,Other,Associate's Degree,177,46,1,67,27,17,72
+Female,SC,Bachelor's Degree,117,100,10,70,2,2,53
+Female,ST,Some High School,48,75,49,85,83,27,73
+Female,OBC,Some High School,24,36,30,32,69,69,100
+Female,SC,Some College,129,48,55,80,26,43,94
+Female,Other,Some High School,13,43,78,23,1,20,43
+Female,General,High School,102,55,72,60,92,27,63
+Female,Other,Master's Degree,162,27,86,60,37,53,98
+Female,ST,Some College,150,78,82,97,2,53,68
+Female,Other,High School,170,5,8,27,15,64,58
+Female,General,High School,25,60,98,57,93,99,45
+Male,ST,Associate's Degree,179,19,20,42,39,20,96
+Male,Other,Some High School,117,77,72,40,1,98,72
+Female,ST,Bachelor's Degree,135,1,27,38,80,12,88
+Female,OBC,Bachelor's Degree,64,72,61,85,40,56,79
+Female,OBC,Some College,179,36,6,48,11,48,58
+Female,Other,Bachelor's Degree,43,19,79,16,34,53,92
+Female,ST,Master's Degree,167,25,15,97,64,9,40
+Female,General,Bachelor's Degree,22,28,96,69,54,52,44
+Female,Other,Some College,150,0,3,69,44,43,66
+Female,OBC,Bachelor's Degree,27,34,3,97,78,46,55
+Male,OBC,Master's Degree,169,69,39,64,89,52,45
+Female,Other,Associate's Degree,105,100,16,73,100,73,79
+Male,ST,Some College,132,58,100,84,84,45,52
+Female,OBC,Associate's Degree,48,68,51,4,61,12,87
+Female,ST,Associate's Degree,55,32,92,1,48,36,74
+Male,OBC,Associate's Degree,38,50,51,21,94,23,58
+Female,OBC,High School,71,77,35,56,24,1,51
+Male,SC,Some High School,25,11,37,65,22,85,55
+Female,OBC,High School,130,19,49,73,23,80,98
+Female,General,Some High School,19,52,62,97,37,99,82
+Male,Other,Associate's Degree,167,87,100,15,27,13,49
+Female,Other,Some College,162,42,62,50,20,9,64
+Male,ST,Some High School,112,97,61,38,53,34,59
+Female,OBC,Master's Degree,93,88,98,85,17,24,70
+Male,General,Master's Degree,142,49,6,75,35,2,43
+Male,ST,Bachelor's Degree,74,28,26,87,98,16,83
+Female,SC,Some High School,12,56,91,39,44,11,62
+Female,ST,Some College,151,38,85,37,72,53,41
+Male,ST,High School,129,94,13,59,52,23,95
+Female,OBC,Associate's Degree,167,55,70,58,29,28,61
+Female,SC,Bachelor's Degree,77,42,100,9,59,42,90
+Female,ST,Master's Degree,155,49,85,98,97,24,96
+Male,General,High School,46,22,4,63,31,99,76
+Male,General,High School,162,43,54,62,66,59,47
+Male,Other,Associate's Degree,82,37,1,48,66,89,46
+Male,SC,Some High School,152,83,61,63,27,64,53
+Male,SC,Master's Degree,58,22,90,31,43,83,95
+Male,Other,Some College,130,44,20,6,78,27,94
+Male,ST,High School,97,51,78,20,40,15,42
+Male,SC,Associate's Degree,149,79,20,19,62,46,89
+Male,General,Some College,46,49,9,25,22,80,55
+Female,General,Some High School,70,7,86,67,74,91,94
+Male,OBC,Master's Degree,180,84,57,85,47,57,58
+Female,SC,Some High School,133,0,38,14,31,75,90
+Female,ST,High School,48,7,4,84,56,26,57
+Female,Other,Some College,72,28,64,78,99,52,91
+Male,Other,Some College,55,95,12,85,32,41,55
+Male,ST,Some College,97,4,84,91,23,58,47
+Male,OBC,High School,20,85,89,13,38,46,99
+Male,Other,High School,71,46,84,26,33,93,72
+Female,SC,Some High School,86,33,52,39,55,33,88
+Male,OBC,Bachelor's Degree,162,64,81,57,27,36,51
+Male,SC,Some High School,61,54,100,27,36,5,92
+Male,General,Master's Degree,13,89,44,25,6,6,50
+Male,OBC,Associate's Degree,68,42,31,62,67,95,44
+Male,Other,Some College,81,73,35,65,36,95,66
+Female,OBC,Bachelor's Degree,157,29,80,24,55,24,51
+Male,OBC,Associate's Degree,102,81,98,2,64,32,56
+Female,OBC,Bachelor's Degree,72,16,59,71,64,54,45
+Male,OBC,Some High School,63,25,10,43,46,57,72
+Female,SC,High School,126,7,62,96,19,6,44
+Male,General,Some College,119,46,20,41,18,56,96
+Male,ST,Some High School,83,75,51,98,28,11,67
+Female,OBC,Associate's Degree,116,90,54,5,73,15,53
+Female,Other,Associate's Degree,66,71,25,38,59,79,44
+Female,OBC,Associate's Degree,178,88,67,51,17,42,93
+Male,Other,Associate's Degree,12,45,33,22,91,99,95
+Female,SC,Associate's Degree,129,67,51,88,34,76,98
+Male,Other,Bachelor's Degree,15,32,81,49,42,6,72
+Male,ST,Some High School,14,0,98,42,94,99,89
+Female,General,Some College,14,18,92,18,90,50,87
+Female,Other,High School,63,30,51,68,10,72,80
+Male,Other,High School,56,79,28,50,48,31,58
+Male,General,Some High School,18,13,37,10,37,74,61
+Female,ST,Some High School,108,52,41,11,63,7,44
+Female,OBC,High School,29,47,20,73,68,96,98
+Female,Other,High School,131,68,41,7,7,86,41
+Male,General,Bachelor's Degree,70,89,12,23,33,88,69
+Male,SC,Master's Degree,132,61,63,91,47,71,86
+Male,General,Some College,172,91,16,40,55,44,78
+Male,SC,Associate's Degree,91,65,8,35,75,85,43
+Male,ST,Master's Degree,71,63,40,100,64,58,72
+Male,OBC,Some High School,154,69,0,84,30,3,52
+Female,General,High School,12,62,1,71,3,66,59
+Male,Other,Master's Degree,169,72,59,54,49,28,93
+Male,ST,Some College,22,32,47,8,68,28,46
+Male,General,Some High School,129,40,28,46,29,97,54
+Female,Other,Associate's Degree,134,88,96,14,87,97,62
+Male,General,Associate's Degree,98,47,9,47,58,27,53
+Male,SC,Some College,82,12,57,81,66,76,62
+Female,General,Some College,77,72,59,41,74,78,58
+Male,General,High School,151,76,20,59,44,86,93
+Male,General,Associate's Degree,110,30,27,83,3,43,68
+Male,ST,Some High School,107,74,74,69,25,89,95
+Male,General,Master's Degree,20,67,33,11,26,3,59
+Male,Other,Some High School,114,97,7,1,45,89,68
+Female,SC,Bachelor's Degree,76,3,58,6,63,8,63
+Female,SC,Bachelor's Degree,132,18,85,79,90,4,57
+Female,General,Some College,38,69,71,2,50,55,49
+Male,ST,High School,146,97,48,2,49,95,80
+Male,ST,Bachelor's Degree,162,81,78,26,5,83,96
+Male,Other,Associate's Degree,85,12,16,39,58,49,47
+Female,General,Some High School,179,22,59,32,14,74,65
+Male,SC,Some High School,18,82,86,91,29,14,68
+Male,ST,Some College,49,74,87,0,41,31,49
+Female,General,Master's Degree,34,0,44,7,100,27,56
+Male,ST,Some College,14,87,82,100,36,21,41
+Female,ST,Master's Degree,148,53,68,31,41,16,45
+Female,SC,Some College,133,70,31,47,100,58,97
+Female,OBC,Some College,47,88,43,100,34,89,44
+Male,Other,Some College,81,84,64,3,86,70,67
+Male,Other,Master's Degree,142,14,86,93,5,56,80
+Male,SC,Master's Degree,99,64,100,69,67,25,44
+Male,ST,Some College,155,75,7,18,17,24,57
+Male,General,Bachelor's Degree,46,70,76,31,72,9,65
+Male,ST,High School,69,14,71,8,28,44,59
+Male,SC,High School,37,20,86,11,76,82,80
+Female,Other,High School,90,18,42,10,58,10,88
+Male,ST,Master's Degree,123,59,0,45,46,76,66
+Female,Other,Master's Degree,49,92,50,15,16,52,88
+Male,General,Bachelor's Degree,54,88,23,0,95,71,51
+Male,Other,High School,71,32,98,62,21,67,46
+Male,Other,High School,102,48,23,20,67,94,98
+Female,OBC,Some College,124,95,16,29,68,27,42
+Female,OBC,Master's Degree,76,34,4,12,36,74,49
+Female,OBC,High School,65,43,19,33,48,64,73
+Female,Other,Some High School,49,89,20,3,12,48,64
+Male,SC,Bachelor's Degree,107,10,57,27,33,46,74
+Female,Other,Some High School,49,98,30,94,85,51,55
+Male,SC,Some High School,100,71,99,58,52,87,41
+Male,SC,Bachelor's Degree,42,77,10,26,86,53,99
+Female,OBC,Some High School,15,73,51,68,50,59,63
+Female,ST,High School,156,65,14,24,2,56,49
+Female,General,Master's Degree,89,45,82,2,41,46,77
+Female,OBC,Bachelor's Degree,177,8,6,96,97,30,61
+Female,OBC,Some College,101,2,27,67,31,45,65
+Female,ST,Some High School,106,84,50,24,50,25,82
+Female,General,Bachelor's Degree,68,25,57,19,84,4,94
+Female,Other,Associate's Degree,68,71,4,33,45,83,78
+Male,Other,Associate's Degree,57,47,4,25,20,51,66
+Female,OBC,Master's Degree,178,65,93,4,43,74,68
+Female,General,High School,22,69,95,98,10,53,86
+Male,OBC,Master's Degree,116,27,7,60,67,32,77
+Female,SC,Master's Degree,54,92,63,91,0,49,59
+Male,OBC,Master's Degree,98,25,9,92,91,37,66
+Male,OBC,Master's Degree,179,24,37,8,62,26,80
+Female,Other,Some College,109,11,95,49,23,97,93
+Male,Other,Some College,164,4,91,5,98,14,59
+Male,Other,Bachelor's Degree,175,97,80,82,12,95,83
+Male,SC,Associate's Degree,16,47,94,59,97,60,58
+Male,Other,Master's Degree,142,36,7,43,10,20,59
+Female,General,Bachelor's Degree,54,78,24,10,99,45,74
+Male,ST,Associate's Degree,67,43,72,65,50,68,86
+Female,General,Some High School,40,99,65,46,16,5,41
+Male,General,High School,32,14,78,72,98,37,69
+Male,Other,Some College,179,42,49,84,81,61,92
+Male,ST,Some High School,147,47,66,87,85,85,73
+Male,ST,Associate's Degree,169,86,48,97,23,61,61
+Female,ST,Some High School,116,69,35,85,18,81,42
+Female,SC,High School,167,45,67,2,36,77,45
+Male,Other,Associate's Degree,48,42,77,75,84,73,54
+Male,ST,Some High School,168,20,40,91,7,45,66
+Female,SC,Some College,91,22,88,29,27,12,49
+Male,OBC,Some College,109,79,61,89,4,94,48
+Male,OBC,Bachelor's Degree,11,46,9,20,16,93,72
+Male,SC,Some High School,86,14,20,27,100,2,71
+Female,SC,Master's Degree,21,24,35,89,35,93,87
+Female,Other,Some High School,48,35,11,61,18,5,45
+Female,Other,Associate's Degree,22,74,90,32,63,92,80
+Male,OBC,Associate's Degree,55,50,1,84,90,7,98
+Male,ST,Some High School,164,14,12,34,97,43,75
+Female,OBC,High School,122,67,52,51,10,32,98
+Female,ST,Some College,26,20,31,33,53,80,99
+Female,ST,Associate's Degree,113,12,94,40,44,74,41
+Female,Other,Some College,107,85,15,50,46,76,68
+Male,General,Associate's Degree,97,18,31,46,11,49,43
+Female,General,Bachelor's Degree,118,33,31,81,20,10,40
+Male,SC,Master's Degree,172,77,97,57,10,94,58
+Female,Other,Associate's Degree,79,67,10,74,91,27,65
+Male,ST,Some College,167,51,9,56,4,69,64
+Female,General,Bachelor's Degree,83,26,14,22,80,40,49
+Female,ST,Associate's Degree,72,28,16,47,55,15,92
+Female,General,High School,165,27,39,21,19,67,54
+Female,General,Master's Degree,69,34,17,16,40,98,98
+Male,General,Associate's Degree,88,7,54,68,45,47,61
+Female,Other,Bachelor's Degree,46,15,72,10,11,55,90
+Male,OBC,High School,31,35,24,93,69,63,87
+Male,ST,Some High School,157,29,58,14,16,58,60
+Male,Other,Bachelor's Degree,105,17,77,90,18,89,98
+Male,Other,Bachelor's Degree,77,1,88,34,25,61,95
+Female,Other,High School,26,48,21,32,47,75,61
+Male,Other,Bachelor's Degree,21,76,29,83,51,10,75
+Male,Other,High School,159,3,83,15,95,100,73
+Male,SC,Associate's Degree,154,89,84,33,69,88,69
+Female,ST,High School,147,88,43,65,54,17,64
+Female,Other,High School,127,93,31,98,99,18,84
+Female,ST,Master's Degree,31,74,50,39,74,86,67
+Female,SC,High School,129,6,45,27,32,54,40
+Male,SC,High School,59,94,20,46,61,81,88
+Male,ST,Some High School,23,73,98,38,87,25,84
+Female,General,Associate's Degree,38,38,31,69,22,5,43
+Male,OBC,Master's Degree,173,12,93,72,14,3,46
+Male,General,Some High School,134,30,38,19,26,28,88
+Male,General,Some College,16,70,11,0,74,58,48
+Female,General,Associate's Degree,38,62,46,71,63,97,75
+Female,Other,Associate's Degree,148,55,17,86,80,16,58
+Male,SC,Some College,42,41,20,62,50,42,40
+Female,General,High School,143,60,12,66,52,79,49
+Female,SC,Some High School,120,41,20,3,77,65,75
+Female,ST,Bachelor's Degree,88,55,7,57,90,33,48
+Female,OBC,Master's Degree,169,35,45,24,81,7,84
+Female,ST,Bachelor's Degree,67,83,6,46,91,12,85
+Male,ST,Some College,35,67,22,37,50,7,81
+Female,Other,Associate's Degree,38,6,95,14,46,93,71
+Male,OBC,Associate's Degree,13,53,74,62,3,95,71
+Male,ST,Master's Degree,108,0,85,20,6,99,45
+Female,ST,Associate's Degree,150,43,21,98,34,93,87
+Male,OBC,Associate's Degree,48,44,88,56,47,64,77
+Male,OBC,Master's Degree,24,46,21,52,72,42,56
+Male,ST,Some High School,128,12,91,45,71,38,49
+Female,OBC,Some High School,38,21,28,13,44,80,89
+Female,ST,Master's Degree,166,20,12,99,80,58,66
+Male,ST,Some College,84,85,81,75,80,83,93
+Female,Other,Associate's Degree,125,91,1,16,96,87,89
+Female,General,Associate's Degree,41,8,28,38,95,85,74
+Female,ST,Some College,139,25,84,8,71,92,91
+Female,SC,Some High School,93,8,78,98,18,85,98
+Male,General,High School,31,14,51,76,62,43,60
+Male,General,High School,36,9,26,78,37,8,64
+Female,General,High School,90,87,49,81,66,36,67
+Female,Other,Some High School,135,41,94,96,58,73,86
+Male,ST,Some High School,101,71,78,5,68,35,54
+Male,Other,Some College,30,23,22,90,12,100,43
+Female,ST,Associate's Degree,56,79,87,22,46,91,68
+Male,Other,Some College,110,48,43,58,60,27,98
+Female,Other,Some College,93,25,76,90,30,41,48
+Female,SC,Some High School,15,90,21,97,79,42,66
+Male,Other,High School,156,36,42,45,95,84,65
+Male,OBC,Bachelor's Degree,140,67,36,37,21,87,58
+Female,SC,Associate's Degree,10,49,60,13,92,41,95
+Female,Other,Some High School,67,23,96,99,85,65,67
+Male,General,High School,133,18,55,71,42,54,56
+Female,OBC,Bachelor's Degree,175,99,2,61,66,71,82
+Male,OBC,Bachelor's Degree,24,59,62,34,53,47,96
+Female,OBC,Some High School,171,38,18,18,9,90,80
+Male,SC,Master's Degree,172,73,22,29,41,21,81
+Male,Other,Associate's Degree,73,88,28,77,63,100,89
+Male,Other,Bachelor's Degree,34,17,29,83,20,26,59
+Female,General,Some High School,33,18,38,24,79,92,84
+Female,General,Some High School,21,35,24,39,75,66,79
+Male,OBC,High School,27,73,100,87,65,12,78
+Female,General,Master's Degree,24,96,7,13,40,44,88
+Male,SC,Associate's Degree,36,54,57,25,23,9,92
+Male,Other,Some College,81,68,15,86,34,99,62
+Female,OBC,High School,69,46,71,21,55,8,86
+Female,General,Bachelor's Degree,154,48,0,47,29,53,71
+Male,SC,Bachelor's Degree,102,98,4,82,56,26,91
+Female,SC,High School,62,97,2,50,93,33,86
+Female,General,Some High School,17,32,64,2,46,0,72
+Male,Other,Bachelor's Degree,88,20,3,41,34,31,96
+Male,General,Master's Degree,36,80,98,18,18,88,85
+Female,OBC,Associate's Degree,59,21,95,72,7,92,44
+Male,General,Master's Degree,140,47,63,27,25,70,82
+Male,SC,Bachelor's Degree,102,36,97,83,70,66,87
+Female,General,Some College,33,14,88,44,29,83,73
+Male,Other,Associate's Degree,69,34,9,70,6,19,79
+Male,ST,Associate's Degree,131,91,20,77,66,93,50
+Female,General,High School,140,70,45,62,64,34,100
+Female,Other,High School,157,31,90,72,35,98,89
+Male,Other,Some College,55,10,26,18,24,90,42
+Male,SC,Some High School,24,9,65,46,36,89,97
+Female,Other,Associate's Degree,162,72,40,13,0,77,72
+Female,Other,Some College,26,77,12,37,14,16,50
+Female,Other,High School,135,76,8,52,36,17,55
+Female,Other,High School,93,56,35,60,12,44,57
+Male,OBC,Associate's Degree,18,24,85,35,7,92,69
+Female,OBC,Master's Degree,175,1,89,39,4,83,87
+Female,SC,Bachelor's Degree,72,63,57,80,59,52,94
+Male,General,High School,126,34,53,29,72,90,49
+Female,Other,Some High School,139,6,11,8,0,81,57
+Male,General,Some High School,97,84,80,63,35,67,77
+Female,General,High School,81,17,77,32,34,64,58
+Female,SC,Master's Degree,148,66,13,51,65,0,75
+Female,Other,Master's Degree,73,41,33,88,62,57,98
+Male,Other,Some College,81,38,52,13,22,25,52
+Male,ST,Some High School,30,40,19,74,8,19,95
+Female,General,Some College,27,74,74,52,33,86,85
+Male,General,Some High School,73,23,15,98,45,9,42
+Male,OBC,Bachelor's Degree,91,59,94,58,77,58,49
+Male,ST,Bachelor's Degree,119,45,69,77,3,74,77
+Male,OBC,Associate's Degree,104,18,55,93,29,40,40
+Male,OBC,Some College,175,67,82,40,94,4,94
+Male,OBC,High School,41,89,100,67,74,64,95
+Female,SC,Some College,20,41,57,67,98,16,66
+Female,SC,High School,54,31,3,91,71,21,85
+Male,OBC,Master's Degree,42,38,3,7,2,97,47
+Female,ST,Some College,111,35,19,1,13,40,90
+Female,General,Master's Degree,178,100,9,85,59,92,85
+Female,ST,Bachelor's Degree,145,96,23,40,76,67,81
+Female,Other,Bachelor's Degree,20,35,98,54,44,68,56
+Male,SC,Associate's Degree,97,2,25,15,95,10,48
+Female,General,Some College,50,72,36,92,33,55,100
+Female,General,Master's Degree,154,7,84,61,44,50,45
+Male,Other,High School,85,96,53,47,60,20,82
+Male,Other,Bachelor's Degree,130,69,20,29,82,98,64
+Female,OBC,Bachelor's Degree,55,40,73,11,15,75,78
+Female,SC,High School,169,67,37,34,65,25,88
+Female,SC,Master's Degree,89,12,45,10,39,18,99
+Female,ST,Master's Degree,63,48,3,63,16,59,67
+Female,OBC,Some College,95,59,59,49,33,70,72
+Female,OBC,Some College,101,1,56,84,15,46,93
+Male,OBC,Some High School,157,59,44,20,59,70,76
+Female,OBC,Some High School,170,4,19,68,65,25,48
+Female,SC,Associate's Degree,177,43,16,47,65,39,57
+Male,SC,Bachelor's Degree,169,26,70,19,89,4,95
+Male,OBC,Some College,106,31,3,100,12,20,98
+Male,ST,Master's Degree,11,20,92,66,55,77,60
+Male,General,High School,42,7,13,43,30,3,41
+Female,General,Master's Degree,167,71,2,32,33,22,100
+Female,ST,Bachelor's Degree,170,49,87,72,38,83,97
+Female,OBC,Some High School,86,66,100,60,66,14,82
+Female,SC,Master's Degree,125,43,79,8,7,92,98
+Female,General,Associate's Degree,163,57,57,67,86,7,99
+Female,Other,Bachelor's Degree,159,2,54,34,77,40,77
+Male,Other,Some High School,112,85,3,80,54,18,97
+Female,ST,High School,175,69,23,97,26,45,79
+Male,OBC,Some High School,112,1,33,87,92,27,75
+Male,General,Associate's Degree,99,86,29,95,52,90,89
+Female,OBC,Bachelor's Degree,131,43,81,64,38,67,99
+Male,General,High School,152,1,18,7,64,14,82
+Female,ST,Associate's Degree,115,80,30,44,16,98,76
+Male,ST,Some High School,128,34,59,86,29,36,54
+Female,Other,Associate's Degree,58,97,59,46,52,0,67
+Male,OBC,Bachelor's Degree,113,86,18,39,12,66,57
+Female,Other,Some College,70,29,48,75,20,23,73
+Female,OBC,Associate's Degree,132,7,62,53,18,26,61
+Female,Other,Associate's Degree,143,21,82,75,52,39,50
+Female,SC,Some High School,18,43,21,45,18,62,97
+Female,SC,Some High School,15,57,23,46,56,60,96
+Male,SC,High School,82,35,75,14,24,35,52
+Male,SC,Some High School,112,68,29,18,85,97,43
+Male,General,Master's Degree,169,76,57,25,30,92,61
+Female,SC,Bachelor's Degree,50,92,30,51,80,23,46
+Male,ST,Bachelor's Degree,123,30,99,92,54,23,100
+Female,ST,Some College,17,46,63,21,22,3,82
+Female,General,Some College,81,54,18,20,31,66,93
+Male,SC,Bachelor's Degree,101,79,47,50,61,33,63
+Male,SC,Some College,71,61,44,37,73,56,43
+Female,SC,High School,93,29,99,19,9,48,67
+Male,Other,Some High School,71,54,93,28,99,86,54
+Female,OBC,Bachelor's Degree,120,15,54,50,71,52,40
+Female,Other,Some College,136,11,54,3,53,22,94
+Female,OBC,Bachelor's Degree,16,16,96,54,51,68,42
+Female,SC,Master's Degree,93,15,17,70,19,94,53
+Female,SC,Associate's Degree,141,11,62,91,31,52,77
+Male,Other,Some High School,143,7,91,27,13,61,89
+Male,Other,Bachelor's Degree,67,83,46,3,49,40,96
+Female,OBC,Associate's Degree,31,2,74,21,27,56,40
+Female,ST,Some College,163,15,56,75,52,59,77
+Male,OBC,Associate's Degree,136,29,44,44,23,53,77
+Male,Other,Some High School,12,22,32,66,78,69,60
+Female,Other,Bachelor's Degree,136,91,16,85,21,100,87
+Male,General,Master's Degree,50,4,69,65,29,56,68
+Female,Other,Some College,115,83,3,87,62,9,44
+Male,General,Bachelor's Degree,23,64,19,33,3,39,88
+Female,ST,Some High School,21,29,46,90,76,6,49
+Male,OBC,Some College,96,20,90,54,58,37,67
+Female,OBC,High School,21,83,14,0,86,84,60
+Male,General,Associate's Degree,150,69,69,71,7,60,89
+Male,OBC,Some High School,34,21,46,86,81,83,46
+Female,Other,High School,54,81,77,37,11,2,42
+Male,SC,Bachelor's Degree,131,71,74,5,30,50,84
+Female,General,Master's Degree,156,31,8,85,77,85,86
+Male,OBC,Some College,64,32,89,24,33,46,59
+Female,General,Associate's Degree,109,15,15,81,81,67,58
+Male,General,Some College,145,75,68,16,97,91,74
+Female,SC,Bachelor's Degree,128,37,60,60,74,75,43
+Male,Other,Some College,62,97,9,11,75,37,44
+Female,General,Associate's Degree,41,13,49,5,48,35,40
+Male,OBC,Bachelor's Degree,60,35,2,89,78,40,43
+Female,ST,Some College,53,96,76,26,56,68,51
+Female,General,Master's Degree,91,22,93,7,94,12,99
+Female,General,Some High School,155,65,69,82,92,86,66
+Male,SC,Bachelor's Degree,159,84,80,64,25,57,95
+Female,Other,Some High School,46,1,50,56,17,49,81
+Male,ST,Bachelor's Degree,105,90,18,92,95,29,62
+Female,OBC,Master's Degree,65,72,41,98,85,61,64
+Male,ST,Some High School,114,64,34,39,37,100,60
+Female,OBC,High School,68,74,45,13,80,24,100
+Male,Other,Associate's Degree,140,66,25,34,86,26,97
+Male,OBC,High School,165,51,68,47,87,50,91
+Female,SC,Some College,44,61,92,83,49,77,63
+Male,SC,Master's Degree,102,22,63,55,7,56,64
+Male,SC,High School,106,25,36,48,40,46,84
+Female,SC,Bachelor's Degree,144,67,83,12,5,99,94
+Male,ST,Some College,85,81,48,60,68,38,85
+Male,Other,Some College,58,54,20,48,43,15,71
+Male,OBC,High School,103,5,73,45,63,21,94
+Female,OBC,High School,168,34,63,61,28,84,71
+Male,SC,Master's Degree,33,21,4,7,27,53,44
+Female,SC,Associate's Degree,157,42,99,42,10,20,75
