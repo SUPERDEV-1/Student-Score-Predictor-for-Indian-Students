@@ -1,4 +1,4 @@
-🎓 Student Score Predictor for Indian Students
+#🎓 Student Score Predictor for Indian Students
 A machine learning-powered Streamlit web app that predicts student academic scores based on demographic and academic factors such as gender, parental education, study time, and module completion.
 
 👉 Live Demo: student-score-predictor-for-indian-students.streamlit.app
